@@ -31,6 +31,7 @@ nav ul{
     height: 64px;
     border-radius: 5px;
     background-color: orangered;
+    margin-left: 50px;
     
 }
 .banner{
@@ -42,15 +43,19 @@ nav ul{
     font-weight: 600;
     font-size: 45px;
     margin-bottom:  20px;
+    margin-left: 50px;
 }
 .banner-title{
     font-weight: 700;
     font-size: 85px;
+    margin-left: 50px;
 }
 .banner-desc{
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
+    margin-left: 50px;
+   
 }
 .header{
        background-color: #fff8f3;
