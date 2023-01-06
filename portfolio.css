@@ -12,7 +12,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav li{
     list-style: none;
@@ -155,7 +155,7 @@ main{
     background-color: #fff8f3;
     display: flex;
     gap: 100px;
-    padding: 130px 200px;
+    padding:130px 200px;
 }
 .contact input ,textarea{
     margin-bottom: 24px;
