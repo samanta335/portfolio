@@ -55,7 +55,20 @@ nav ul{
     font-size: 18px;
     margin-bottom: 30px;
     margin-left: 50px;
-   
+}
+.contact-btn{
+    border: 1px solid rgba(255, 68, 0, 0.814);
+border-radius: 5px;
+     color: rgba(255, 68, 0, 0.875);
+     font-weight: 700px;
+    font-size: 20px;
+    padding: 18px 35px;
+    height: 64px;
+    margin-left: 20px;
+    background-color: #ffffff;
+
+
+    
 }
 .header{
        background-color: #fff8f3;
